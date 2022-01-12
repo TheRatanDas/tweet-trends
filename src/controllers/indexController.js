@@ -15,7 +15,7 @@ exports.index = (req, res) => {
         },
         trends: {
             endpoint: '/trends',
-            example: fullUrl+'trends?location=indonesia'
+            example: fullUrl+'trends?location=india'
         }
     });
 };
